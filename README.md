@@ -11,12 +11,12 @@ The landing page introduces visitors to the website, providing an overview of it
 
 ## Contact Page
 
-![Contact Page](images/contact us.png)
+![Contact Page](contact us.png)
 
 The contact page allows users to get in touch with me. It includes a form or contact information for communication.
 
 ## Calculator Page
 
-![Calculator Page](images/calculate.png)
+![Calculator Page](calculate.png)
 
 The calculator page features a functional calculator allowing users to perform mathematical calculations.
