@@ -5,18 +5,18 @@ This repository contains the code for my personal website showcasing different p
 
 ## Landing Page
 
-![Landing Page](images/landing.png)
+![Landing Page](images/landing.jpg)
 
 The landing page introduces visitors to the website, providing an overview of its purpose and content.
 
 ## Contact Page
 
-![Contact Page](images/contact.png)
+![Contact Page](images/contact.jpg)
 
 The contact page allows users to get in touch with me. It includes a form or contact information for communication.
 
 ## Calculator Page
 
-![Calculator Page](images/calculate.png)
+![Calculator Page](images/calculate.jpg)
 
 The calculator page features a functional calculator allowing users to perform mathematical calculations.
