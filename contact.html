@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juliflora Extraction</title>
+    <link rel="stylesheet" href="style/header_main.css">
+    <link rel="icon" type="image/png" href="./images/logo.png">
+    <link rel="stylesheet" href="style/contact.css">
+    <link rel="icon" type="image/png" href="./images/logo.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-logo">
+          <img src="./images/logo.png" alt="Logo">
+          <h1 class="navbar-title">Juliflora Extraction</h1>
+        </div>
+		<div class="navbar-buttons">
+          <a href="index.html" class="navbar-button"><i class="fal fa-home"></i> Home</a>
+          <a href="contact.html" class="navbar-button" id="active"><i class="fal fa-phone-alt"></i> Contact Us</a>
+          <a href="calculator.html" class="navbar-button"><i class="fal fa-calculator"></i> Calculate</a>
+          <a href="about.html" class="navbar-button"><i class="fal fa-address-card"></i> About Us</a>
+        </div>
+    </nav>
+    <div class="fullscreen">
+      <div class="hero">
+        <div class="contact-form">
+          <h2>Contact Us</h2>
+          <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="phone">Phone No. :</label>
+            <input type="tel" id="phone" name="phone" required>
+            <label for="location">Location:</label>
+            <input type="text" id="location" name="location" required>
+            <label for="trees">Number of Trees:</label>
+            <input type="number" id="trees" name="trees" min="1">
+            <label for="image">Image:</label>
+            <input type="file" id="image" name="image" required accept="image/*">
+            <button type="submit" id="submit">Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
+    <script src="script/index.js"></script>    
+</body>
+</html>
